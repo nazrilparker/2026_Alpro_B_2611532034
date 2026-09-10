@@ -1,4 +1,4 @@
-# Buat file dengan nama Numerik_2611532034.py
+# Buat file dengan nama Numerik_NIM.py
 # nama variabel ditambah 4 digit terakhir NIM contoh: a_5500
 #create a variable with integer value.
 a_2034=100
